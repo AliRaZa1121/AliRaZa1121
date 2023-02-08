@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://w7.pngwing.com/pngs/419/854/png-transparent-matrix-code-generative-adversarial-networks-computer-network-convolutional-neural-network-blue-node-technology-background-angle-electronics-text.png"  />
+  <img height="400" width="100%" src="https://img.freepik.com/premium-vector/blue-cyber-future-technology-concept-background_42077-488.jpg"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Ali RaZa</h1>
