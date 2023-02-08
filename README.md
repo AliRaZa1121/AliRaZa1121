@@ -2,7 +2,7 @@
   <img height="400" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"  />
 </div>
 
-<h1 align="left">Hi 👋, I'm Syed Bilal ali</h1>
+<h1 align="left">Hi 👋, I'm Ali RaZa</h1>
 <h3 align="left">Full Stack Developer | Building Products | Learning, Building, Selling, Growing.</h3>
 <h3 align="left"> I love building the real world products.</h3>
 
@@ -15,13 +15,13 @@
 - </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
 
-- 🔥 I work at Upwork [https://www.upwork.com/freelancers/~01bb9d998807bdf561](Syed Bilal Ali)
+- 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Ali RaZa)
 
 -  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me [**bilalaly1122@gmail.com**](mailto:bilalaly1122@gmail.com)
+- 📫 How to reach me [**aliraza.1121@yahoo.com**](mailto:aliraza.1121@yahoo.com)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
