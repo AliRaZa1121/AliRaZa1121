@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://media.istockphoto.com/id/865457032/vector/abstract-futuristic-cyberspace-with-binary-code-matrix-background-with-digits-well-organized.jpg?s=612x612&w=0&k=20&c=IQcdedY8fn_DMq6nwc5MaHUBe0H0d5DPyibHR8J2usk="  />
+  <img height="400" src="https://w7.pngwing.com/pngs/419/854/png-transparent-matrix-code-generative-adversarial-networks-computer-network-convolutional-neural-network-blue-node-technology-background-angle-electronics-text.png"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Ali RaZa</h1>
