@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.instagram.com/aly.syed/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/aliraza.1121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:abhidadhaniya23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Yahoo&logo=yahoo&label=&color=8806ce&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Yahoo logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/syed-bilal-ali-2b4a2b207/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahibzada-ali-raza" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
