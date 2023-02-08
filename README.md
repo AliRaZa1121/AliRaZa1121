@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/aliraza.1121" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:abhidadhaniya23@gmail.com" target="_blank">
+  <a href="mailto:aliraza.1121@yahoo.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Yahoo&logo=yahoo&label=&color=8806ce&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Yahoo logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sahibzada-ali-raza" target="_blank">
