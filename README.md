@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://img.freepik.com/premium-vector/blue-cyber-future-technology-concept-background_42077-488.jpg"  />
+  <img height="400" width="100%" src="https://ctrl-alt-rees.com/images/2018-09-11-github-build-error-page-build-failed-config-yml-comments.jpg"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Ali RaZa</h1>
