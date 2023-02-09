@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://wallpapercave.com/wp/wp3082316.jpg"  />
+  <img height="400" width="100%" src="https://img.freepik.com/free-photo/closeup-computer-screen-software-developer-typing-programming-language-it-startup-agency-display-concept-system-engineer-writing-source-code-scrolling-text-database-functions-script_482257-33355.jpg?w=1060&t=st=1675985123~exp=1675985723~hmac=49ff9504088b101963fc7e40af4d67a328f10ad628404c9b2e71781c6468a778"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Ali RaZa</h1>
