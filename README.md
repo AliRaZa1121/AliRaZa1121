@@ -17,7 +17,7 @@
 
 - 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Ali RaZa)
 
--  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
+-  🌈 Download My Resume : [Resume](https://drive.google.com/file/d/1DnM398ev-O0Dy2AKvGGdEDsC9GGj0NjO/view?usp=share_link) 
 
 - 💬 Ask me about **javascript**
 
