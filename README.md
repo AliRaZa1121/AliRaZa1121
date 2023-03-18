@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi 👋, I'm Ali RaZa</h1>
 <h3 align="left">Back-end Developer | Building Products | Learning, Building, Selling, Growing.</h3>
-<h3 align="left"> I love building the real world products & Making great progress on optimizing database queries and improving API response times for our latest project. Excited to see the positive impact on user experience and overall system performance! #backenddevelopment #optimization #APIs.</h3>
+<h3 align="left"> I love building the real world products</h3>
 
 - ✨ I’m currently learning **DevOps** and working on some **Products** and projects of clients.
 
