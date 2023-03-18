@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="100%" src="https://img.freepik.com/free-photo/closeup-computer-screen-software-developer-typing-programming-language-it-startup-agency-display-concept-system-engineer-writing-source-code-scrolling-text-database-functions-script_482257-33355.jpg?w=1060&t=st=1675985123~exp=1675985723~hmac=49ff9504088b101963fc7e40af4d67a328f10ad628404c9b2e71781c6468a778"  />
+  <img height="400" width="100%" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1812&q=80"  />
 </div>
 
 <h1 align="left">Hi 👋, I'm Ali RaZa</h1>
@@ -8,16 +8,14 @@
 
 - ✨ I’m currently learning **DevOps** and working on some **Products** and projects of clients.
 
-<!-- - 👨‍💻 All of my projects are available at [abhidadhaniya.com](https://www.abhidadhaniya.com/)  -->
-
-- 🚀 We're a web design company that provides various types of services for small businesses and individuals.
+- 🚀 Making the impossible possible, one line of code at a time.
 
 
 - 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Ali RaZa)
 
 -  🌈 Download My Resume : [Resume](https://drive.google.com/file/d/1DnM398ev-O0Dy2AKvGGdEDsC9GGj0NjO/view?usp=share_link) 
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript** || **php**
 
 - 📫 How to reach me [**aliraza.1121@yahoo.com**](mailto:aliraza.1121@yahoo.com)
 
