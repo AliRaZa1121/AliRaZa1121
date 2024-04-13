@@ -13,7 +13,7 @@
 
 - 🔥 I work at Upwork [[https://www.upwork.com/freelancers/~01bb9d998807bdf561](https://www.upwork.com/freelancers/~01221ae2a60bf7c7d7)](Ali RaZa)
 
--  🌈 Download My Resume : [Resume](https://cv.aliraza.engineer) 
+-  🌈 Download My Resume : [Resume](https://www.canva.com/design/DAGBGSJrnLU/BQ0o6zwRnPgPy30kEKzcPQ/view) 
 
 - 💬 Ask me about **javascript** || **php**
 
