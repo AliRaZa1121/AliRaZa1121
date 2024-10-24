@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.instagram.com/sahibzadaa.aliraza@gmail.com/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/sahibzadaa.aliraza/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:aliraza.1121@yahoo.com" target="_blank">
