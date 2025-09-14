@@ -51,9 +51,16 @@ With 6+ years of professional experience, I specialize in **SaaS solutions, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
 </p>
 
-### ⚡ Backend Architecture  
-🔹 Microservices · Event-Driven Systems · JWT & OAuth2 · API Security  
-🔹 CI/CD Pipelines · WebSockets · GraphQL · Kafka · RabbitMQ  
+### 🏗️ System Design & Architecture  
+- **Microservices & Event-Driven Systems** – designing scalable, fault-tolerant architectures  
+- **Authentication & Security** – JWT, OAuth2, API Gateways, role-based access control  
+- **CI/CD & DevOps** – automated pipelines, Docker, Kubernetes, GitOps practices  
+- **Real-time Communication** – WebSockets, Socket.io, Redis Pub/Sub  
+- **API Design** – RESTful APIs, GraphQL, gRPC for high-performance services  
+- **Messaging & Streaming** – Kafka, RabbitMQ, AWS SQS/SNS  
+- **Caching & Performance** – Redis, CDN strategies, database optimization  
+- **Cloud Infrastructure** – AWS (EC2, S3, ELB, Route53), Azure, GCP services  
+- **System Reliability** – load balancing, horizontal scaling, monitoring & logging (ELK, Prometheus, Grafana)  
 
 ---
 
