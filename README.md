@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid&w=740&q=80" width="100%" height="320" alt="Tech Banner"/>
+  <img src="https://evolvingweb.com/sites/default/files/styles/ewsite8_header/public/2023-03/back-end-developer-track-hero3_0.jpg.jpeg?itok=-u8RshSY?semt=ais_hybrid&w=740&q=80" width="100%" height="320" alt="Tech Banner"/>
 </div>
 
 # 👋 Hi, I'm Ali Raza  
